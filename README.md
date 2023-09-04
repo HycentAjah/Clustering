@@ -6,6 +6,6 @@ This practical covers the Kmeans clustering algorithms. The basic idea of cluste
 In the notebook, I implement the Kmeans clustering algorithm with 2 examples:
 
 * **Customer segmentation**
-* **Image segmentation
+* **Image segmentation**
 
 The data for this practical was obtained from the IBM cloud storage.
